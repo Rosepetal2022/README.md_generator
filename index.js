@@ -27,13 +27,8 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please list the table of contents to your project',
-        name: 'contents'
-    },
-    {
-        type: 'input',
         message: 'What are the steps required to install your project?',
-        name: 'installation'
+        name: 'install'
     },
     {
         type: 'input',

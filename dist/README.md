@@ -1,37 +1,47 @@
-# sdlkfj
-  ![GitHub License](https://img.shields.io/badge/license-Apache-blue.svg)
-  https://www.apache.org/licenses/LICENSE-2.0
-
+# README Generator
+  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+ 
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Collaborators](#collaborators)
+  * [Licenses](#license)
+  * [Tests](#tests)
+  * [Questions](#email)
+  
+  
   ## Description 
 
-  flksdjf
-
-  ## Table of Contents
-
-  ldkfj;a
+  To create a professional README file.
 
   ## Installation
 
-  undefined
+  npm install
 
   ## Usage
 
-  ka;ldfj
+  To create a professional README file for any project.
 
   ## Collaborators
 
-  lsdkg;l
+  None
+
+  ## License 
+
+  https://www.mit.edu/~amini/LICENSE.md
+  
+      This project is covered under the MIT license. To learn more about what this means, click the link above.
 
 
   ## Tests
 
-  klsjdf;
+  None
 
   ## Questions
 
   If you have any questions please contact me by email or GitHub.
 
-  Email: alkdfj
+  Email: marcotter25@yahoo.com
 
   GitHub: https://github.com/Rosepetal2022
 
