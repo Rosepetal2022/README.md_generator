@@ -12,7 +12,7 @@
   
   ## Description 
 
-  To create a professional README file.
+  An app to create a professional looking README file.
 
   ## Installation
 
@@ -20,11 +20,11 @@
 
   ## Usage
 
-  To create a professional README file for any project.
+  Using this app to create a professional README for any project.
 
   ## Collaborators
 
-  None
+  none
 
   ## License 
 
@@ -35,7 +35,7 @@
 
   ## Tests
 
-  None
+  none
 
   ## Questions
 
